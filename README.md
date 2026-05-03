@@ -192,3 +192,9 @@ uvicorn app.main:app --reload
 - Add Docker support
 
 ---
+## docs
+<img width="1850" height="1053" alt="image" src="https://github.com/user-attachments/assets/abc2f590-aa98-4434-bd3f-a7b81b61b52c" />
+
+## sample test
+<img width="1850" height="1053" alt="image" src="https://github.com/user-attachments/assets/3e818ed1-30bd-4432-97da-0a41c8ff6a88" />
+<img width="1850" height="1053" alt="image" src="https://github.com/user-attachments/assets/5b0b9044-dc07-46b8-b3c4-12230b2456a6" />
